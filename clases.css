@@ -1,0 +1,158 @@
+body {background-color:#D8BFD8;
+   background-size: cover;}
+
+  .btn-group .button {
+  	position:relative;
+  margin: 300px auto;
+  top: -100px;
+  background-color: #9400D3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+    float: left;
+  left: 450px;
+}
+
+.btn-group .button:hover {
+  background-color: #BA55D3;
+}
+
+
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 5px #BA55D3;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 2px;
+  border: 3px solid gray;
+  padding: 8px;
+  background-color: ; 
+}
+ 
+ p:hover {
+  background-color: #FFB6C1;
+}
+
+
+.texto{
+
+  position: absolute;
+  top: 700px;
+  left: 300px;
+
+}
+
+
+
+.texto1{
+
+  position: absolute;
+  top: 1800px;
+  left: 300px;
+}
+
+
+.texto2{
+
+  position: absolute;
+  top: 2800px;
+  left: 300px;
+}
+
+
+.texto3{
+
+  position: absolute;
+  top: 3800px;
+  left: 300px;
+}
+
+
+
+.button1 {
+  position: absolute;
+  top:500px;
+  background-color: #9400D3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1:hover {
+  background-color: #BA55D3;
+}
+
+.button2 {
+  position: absolute;
+  top:550px;
+  background-color: #9400D3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2:hover {
+  background-color: #BA55D3;
+}
+
+
+.button3 {
+  position: absolute;
+  top:550px;
+  background-color: #9400D3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button3:hover {
+  background-color: #BA55D3;
+}
+
+
+.button4 {
+  position: absolute;
+  top:540px;
+  background-color: #9400D3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button4:hover {
+  background-color: #BA55D3;
+}
